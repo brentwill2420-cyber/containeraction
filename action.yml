@@ -1,5 +1,5 @@
  name: 'my first container action'
- decription 'A cloud guru'
+ decription: 'A cloud guru'
   author: 'Chad Crowell'
  inputs:
    myInputs:
