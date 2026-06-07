@@ -3,10 +3,10 @@
   author: 'Chad Crowell'
  inputs:
    myInputs:
-   description: 'greeting to use'
-   required: true
-   default: ' Awesome Guru'
-   outputs:
+    description: 'greeting to use'
+    required: true
+    default: ' Awesome Guru'
+    outputs:
     myOutput:
     description: 'total memory'
     runs:
